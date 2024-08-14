@@ -1,0 +1,79 @@
+{
+  "configVersion": 1,
+  "timestamp": 1723663032973,
+  "index": "/faith-and-real-life/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/faith-and-real-life/favicon.ico",
+        "/faith-and-real-life/index.html",
+        "/faith-and-real-life/main-3G6JX4N5.js",
+        "/faith-and-real-life/manifest.webmanifest",
+        "/faith-and-real-life/polyfills-SCHOHYNV.js",
+        "/faith-and-real-life/styles-DDWZBJTG.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/faith-and-real-life/icons/icon-128x128.png",
+        "/faith-and-real-life/icons/icon-144x144.png",
+        "/faith-and-real-life/icons/icon-152x152.png",
+        "/faith-and-real-life/icons/icon-192x192.png",
+        "/faith-and-real-life/icons/icon-384x384.png",
+        "/faith-and-real-life/icons/icon-512x512.png",
+        "/faith-and-real-life/icons/icon-72x72.png",
+        "/faith-and-real-life/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/faith-and-real-life/favicon.ico": "aa7021369db48528d66e92f94b4dd2d9d52179d7",
+    "/faith-and-real-life/icons/icon-128x128.png": "6a00b8f364146a1f3414aab6dd573f12b6347318",
+    "/faith-and-real-life/icons/icon-144x144.png": "4ba1c9d16057d4a1170bf14b4de672a54f11cc9c",
+    "/faith-and-real-life/icons/icon-152x152.png": "b66158f848b31d62547942c814c640f8a6831b73",
+    "/faith-and-real-life/icons/icon-192x192.png": "7495b43497444585e4a20537134217d2e620f678",
+    "/faith-and-real-life/icons/icon-384x384.png": "b4fcb9c2f570d220548cea9b54e01e3f456962ec",
+    "/faith-and-real-life/icons/icon-512x512.png": "06cd6119efd1ae55e333cae819656e7a7c913018",
+    "/faith-and-real-life/icons/icon-72x72.png": "189e03366ea31284fe3e388a7d5990a196935a4d",
+    "/faith-and-real-life/icons/icon-96x96.png": "1da05dde5056f7680909d2d5c2578b88a468e56b",
+    "/faith-and-real-life/index.html": "2b16b41f7978c18e65a27d12ec4ac355abc12eca",
+    "/faith-and-real-life/main-3G6JX4N5.js": "13677ad5df64720296efeef733583368856e5d79",
+    "/faith-and-real-life/manifest.webmanifest": "ffeb0aa38801ae33c8905b6273138a3f175c4cdb",
+    "/faith-and-real-life/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
+    "/faith-and-real-life/styles-DDWZBJTG.css": "8f8751cd0f978316b0a8efb6486311cc538b19c9"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
