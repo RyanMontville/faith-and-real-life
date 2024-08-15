@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1723663747794,
+  "timestamp": 1723740451342,
   "index": "/faith-and-real-life/index.html",
   "assetGroups": [
     {
@@ -13,10 +13,10 @@
       "urls": [
         "/faith-and-real-life/favicon.ico",
         "/faith-and-real-life/index.html",
-        "/faith-and-real-life/main-THBA5QVE.js",
+        "/faith-and-real-life/main-HTUJ4GMC.js",
         "/faith-and-real-life/manifest.webmanifest",
         "/faith-and-real-life/polyfills-SCHOHYNV.js",
-        "/faith-and-real-life/styles-DDWZBJTG.css"
+        "/faith-and-real-life/styles-T2CV7DA4.css"
       ],
       "patterns": []
     },
@@ -51,11 +51,11 @@
     "/faith-and-real-life/icons/icon-512x512.png": "06cd6119efd1ae55e333cae819656e7a7c913018",
     "/faith-and-real-life/icons/icon-72x72.png": "189e03366ea31284fe3e388a7d5990a196935a4d",
     "/faith-and-real-life/icons/icon-96x96.png": "1da05dde5056f7680909d2d5c2578b88a468e56b",
-    "/faith-and-real-life/index.html": "ef18bfc4c1aed369a7cc5fa897490676c6a9161c",
-    "/faith-and-real-life/main-THBA5QVE.js": "eca91a3ca34920bb71421235338d8c0c86e29a89",
+    "/faith-and-real-life/index.html": "e278b79f0ff26347eb13d72cfafcf8b469472f8d",
+    "/faith-and-real-life/main-HTUJ4GMC.js": "ba326ac1875226852ae5aa9236bb5bd3429ed264",
     "/faith-and-real-life/manifest.webmanifest": "ffeb0aa38801ae33c8905b6273138a3f175c4cdb",
     "/faith-and-real-life/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
-    "/faith-and-real-life/styles-DDWZBJTG.css": "8f8751cd0f978316b0a8efb6486311cc538b19c9"
+    "/faith-and-real-life/styles-T2CV7DA4.css": "de439be920c8d865923f78277c458321673d6c9d"
   },
   "navigationUrls": [
     {
